@@ -46,7 +46,7 @@ I am a passionate and detail-oriented developer specializing in building modern,
 
 Here are some of the recent web projects I have designed and deployed:
 
-- **⚡ [Golden Electrical & Manufactures]( https://abdulrazzak-dev.github.io/golden-electrical-storefront/)** - A commercial B2B product catalog storefront with clean navigation and interactive pricing badges.
+- **⚡ [Golden Electrical & Manufactures](  https://abdulrazzak-dev.github.io/golden-electrical-store-front/)** - A commercial B2B product catalog storefront with clean navigation and interactive pricing badges.
 - **🍰 [Sweet Delights Bakery]( https://abdulrazzak-dev.github.io/sweet-delights-bakery/)** - An elegant digital storefront for an artisan bakery featuring semantic pricing tables.
 - **🚌 [Bus Ticket Booking Website UI/UX](https://abdulrazzak-dev.github.io/Bus-Ticket-Booking-Website-UI-UX/)** - A modern digital ticketing platform for bus travelers featuring intuitive booking workflows, interactive seat selection, and a clean, responsive user interface.
 - **🌐 [Personal Portfolio](https://abdulrazzak-dev.github.io/Portfolio/)** - My personal digital experience featuring smooth animations powered by GSAP.
