@@ -11,7 +11,7 @@ I am a passionate and detail-oriented developer specializing in building modern,
 ---
 
 ### I code in
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
  
  ###  🛠️ Tech Stack
 
