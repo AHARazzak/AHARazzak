@@ -84,4 +84,8 @@ Here are some of the recent web projects I have designed and deployed:
 
 
 
-[![Abdulrazzak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulrazzak-dev&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdulrazzak-dev&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Abdulrazzak's github activity graph](https://github-readme-activity-graph-bay-mu.vercel.app/graph?username=abdulrazzak-dev&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
